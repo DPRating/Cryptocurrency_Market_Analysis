@@ -6,5 +6,9 @@ This repository contains various analytical materials on cryptocurrency, includi
 
 ```
 jupyter notebook
-
+numpy
+pandas
+sklearn
+tensorflow
+xgboost
 ```
